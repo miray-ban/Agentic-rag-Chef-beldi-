@@ -19,3 +19,5 @@ In a world overflowing with information, Chef Beldi acts as your AI-powered kitc
 ✨ Personalized Cooking Experience: Adapts recipes to your diet, allergies, and available ingredients.
 ✨ AI-Powered Reliability: No more misleading or irrelevant recipe suggestions.
 ✨ Flexible & Scalable: Whether through web apps, mobile, or WhatsApp, the experience remains seamless.
+
+![XX](https://github.com/user-attachments/assets/338ece0d-df74-4b87-8b78-8d1f8d4d2f65)
